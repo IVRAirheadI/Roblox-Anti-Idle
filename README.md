@@ -1,1 +1,4 @@
-Works great for any game on roblox that likes to kick for being idle. Combines the spacebar + W key for anti idling. Simply toggle the script on and every 5 minutes (300 seconds) your character will move ingame.![Screenshot 2025-05-26 200641](https://github.com/user-attachments/assets/b9988bb5-f6fb-47d3-a6cd-b59d66747e6e)
+Works great for any game on roblox that likes to kick for being idle. Combines the spacebar + W key for anti idling. Simply toggle the script on and every 5 minutes (300 seconds) your character will move ingame.
+
+
+![antiidle](https://github.com/user-attachments/assets/f72ca48e-9869-4269-9fe9-90bccd07a72e)
